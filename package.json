@@ -1,0 +1,19 @@
+{
+  "name": "book-shop-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.28",
+    "tailwindcss": "^3.3.3"
+  },
+  "dependencies": {
+    "vite": "^4.4.9"
+  }
+}
